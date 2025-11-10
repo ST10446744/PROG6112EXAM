@@ -1,0 +1,6 @@
+Data log
+******************************
+total sales: 2200
+average sales 367
+sales over limit 2
+sales under limit 4
